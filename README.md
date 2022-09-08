@@ -1,2 +1,2 @@
 # Blog Website
-- I am practicing to build a blog website using Node.js (Express).
+- I am practicing building a blog website using Node.js (Express).
